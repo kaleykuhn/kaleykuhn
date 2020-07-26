@@ -14,7 +14,7 @@ Built a Full-stack application, with a responsive design and interactive interfa
 
 Application has a quiz with results, product suggestion groups, and links to purchase products.
 
-White Bear -​ ​http://wonderful-reaction.surge.sh/
+**White Bear -​ ​http://wonderful-reaction.surge.sh/
 
 React js, Redux, JavaScript, Bootstrap, Sass, AWS-RDS, MySQL
 
