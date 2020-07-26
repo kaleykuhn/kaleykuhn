@@ -21,3 +21,13 @@ React js, Redux, JavaScript, Bootstrap, Sass, AWS-RDS, MySQL
 Built a Full-stack application, with a responsive design and interactive interface.
 
 Application created to strengthen a users memory through the use of imagery statements.
+
+**JavaScript Utility Library**-​ ​https://github.com/kaleykuhn/react-utility-library-app
+
+React js, JavaScript, Bootstrap, Sass, Node.js.
+
+Built a single page application, with a responsive design and interactive interface.
+
+Application created with over fifty different JavaScript functions.
+
+## Education and Training
