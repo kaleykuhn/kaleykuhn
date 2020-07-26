@@ -1,18 +1,18 @@
 # Kaley Kuhn
 
 ## Web Development Skills
-JavaScript, HTML5, CSS3, Bootstrap, SASS, MySQL, JQuery, React, Redux, Axios, Node.js, Express, Github, AWS - RDS, Git, VS Code.
-
-Experience implementing all of the above technologies.
-
+  - JavaScript, HTML5, CSS3, Bootstrap, SASS, MySQL, JQuery, React, Redux, Axios
+  - Node.js, Express, Github, AWS - RDS, Git, VS Code.
+  - Experience implementing all of the above technologies.
+  
 ## Recent Web Projects
-**Lip Service**-​ ​http://jumpy-kitty.surge.sh/
+  **Lip Service**-​ ​http://jumpy-kitty.surge.sh/
 
-React js, Redux, JavaScript, Bootstrap, Sass, AWS-RDS, MySQL.
+  - React js, Redux, JavaScript, Bootstrap, Sass, AWS-RDS, MySQL.
 
-Built a Full-stack application, with a responsive design and interactive interface.
+  - Built a Full-stack application, with a responsive design and interactive interface.
 
-Application has a quiz with results, product suggestion groups, and links to purchase products.
+  - Application has a quiz with results, product suggestion groups, and links to purchase products.
 
 **White Bear** -​ ​http://wonderful-reaction.surge.sh/
 
@@ -54,3 +54,8 @@ Worked in a pair programming format as well as on scrum teams,with peer reviews.
 Utilized Slack and Zoom to effectively communicate with others throughout the work day.
 
 Graduated with a Certificate of Achievement satisfying full requirements of course.
+
+## Former Employers
+Dr. Stacy Lane cell # 412-608-8313 office# 412-515-0000
+
+John Mcmarlin cell# 412-225-1882 office# 412-471-6790
