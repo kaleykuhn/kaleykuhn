@@ -31,3 +31,5 @@ Built a single page application, with a responsive design and interactive interf
 Application created with over fifty different JavaScript functions.
 
 ## Education and Training
+
+**PunchCode Full-Stack School** -
