@@ -16,7 +16,7 @@ Application has a quiz with results, product suggestion groups, and links to pur
 
 **White Bear** -​ ​http://wonderful-reaction.surge.sh/
 
-React js, Redux, JavaScript, Bootstrap, Sass, AWS-RDS, MySQL
+React js, Redux, JavaScript, Bootstrap, Sass, AWS-RDS, MySQL.
 
 Built a Full-stack application, with a responsive design and interactive interface.
 
@@ -38,3 +38,19 @@ Las Vegas, NV
 M​AY​ 2020 – J​ULY​ 2020
 
 Used many technologies to build projects on a daily basis including but not limited to JavaScript, React, Redux, Node.js, MySQL and Express.
+
+Wrote clear, concise, code with comments to be able to follow, read, and explain in an efficient way.
+
+An immersive Full-Stack Web Development program highly focused on building JavaScript and React
+applications.
+
+Implemented skills in both front-end and back-end development with a variety of in demand tech.
+
+Worked remotely on an individual and group basis to write and read code line by line to accomplish goals and
+finish projects within deadlines.
+
+Worked in a pair programming format as well as on scrum teams,with peer reviews.
+
+Utilized Slack and Zoom to effectively communicate with others throughout the work day.
+
+Graduated with a Certificate of Achievement satisfying full requirements of course.
