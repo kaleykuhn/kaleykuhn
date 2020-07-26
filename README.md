@@ -6,7 +6,7 @@ JavaScript, HTML5, CSS3, Bootstrap, SASS, MySQL, JQuery, React, Redux, Axios, No
 Experience implementing all of the above technologies.
 
 ## Recent Web Projects
-  ###Lip Service-​ ​http://jumpy-kitty.surge.sh/
+Lip Service-​ ​http://jumpy-kitty.surge.sh/
 
 React js, Redux, JavaScript, Bootstrap, Sass, AWS-RDS, MySQL.
 
