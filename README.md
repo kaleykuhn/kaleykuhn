@@ -8,3 +8,4 @@ Experience implementing all of the above technologies.
 Lip Service-​ ​http://jumpy-kitty.surge.sh/
 
 React js, Redux, JavaScript, Bootstrap, Sass, AWS-RDS, MySQL
+Built a Full-stack application, with a responsive design and interactive interface.
