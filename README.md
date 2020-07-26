@@ -33,3 +33,4 @@ Application created with over fifty different JavaScript functions.
 ## Education and Training
 
 **PunchCode Full-Stack School** -
+Las Vegas, NV
