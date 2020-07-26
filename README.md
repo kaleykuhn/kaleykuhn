@@ -8,6 +8,5 @@ Experience implementing all of the above technologies.
 ## Recent Web Projects
 Lip Service-​ ​http://jumpy-kitty.surge.sh/
 
-React js, Redux, JavaScript, Bootstrap, Sass, AWS-RDS, MySQL
-
+React js, Redux, JavaScript, Bootstrap, Sass, AWS-RDS, MySQL.
 Built a Full-stack application, with a responsive design and interactive interface.
