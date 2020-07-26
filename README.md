@@ -34,4 +34,7 @@ Application created with over fifty different JavaScript functions.
 
 **PunchCode Full-Stack School** -
 Las Vegas, NV
+
 M​AY​ 2020 – J​ULY​ 2020
+
+Used many technologies to build projects on a daily basis including but not limited to JavaScript, React, Redux, Node.js, MySQL and Express.
