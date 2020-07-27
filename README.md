@@ -41,5 +41,7 @@ M​AY​ 2020 – J​ULY​ 2020
   - Graduated with a Certificate of Achievement satisfying full requirements of course.
 
 ## Former Employers
-  - Dr. Stacy Lane  cell# 412-608-8313 office# 412-515-0000
-  - John Mcmarlin   cell# 412-225-1882 office# 412-471-6790
+  - Dr. Stacy Lane    
+         - cell# 412-608-8313 - office# 412-515-0000
+  - John Mcmarlin   
+         - cell# 412-225-1882 - office# 412-471-6790
