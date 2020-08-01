@@ -36,7 +36,7 @@ M​AY​ 2020 – J​ULY​ 2020
   - Implemented skills in both front-end and back-end development with a variety of in demand tech.
   - Worked remotely on an individual and group basis to write and read code line by line to accomplish goals and
     finish projects within deadlines.
-  - Worked in a pair programming format as well as on scrum teams,with peer reviews.
+  - Worked in a pair programming format as well as on scrum teams, with peer reviews.
   - Utilized Slack and Zoom to effectively communicate with others throughout the work day.
   - Graduated with a Certificate of Achievement satisfying full requirements of course.
 
