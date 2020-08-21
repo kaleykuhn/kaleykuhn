@@ -7,9 +7,9 @@
   
 ## Recent Web Projects
   **Lip Service**-​ ​http://jumpy-kitty.surge.sh/
-  - React js, Redux, JavaScript, Bootstrap, Sass, AWS-RDS, MySQL.
-  - Built a Full-stack application, with a responsive design and interactive interface.
-  - Application has a quiz with results, product suggestion groups, and links to purchase products.
+  - Full-stack application has a quiz with results, product suggestion groups, and links to purchase cosmetic products.
+  - Built with JavaScript in React.js and Node.js, state managed with Redux. Designed with Bootstrap, CSS, SASS.
+  - Created database, cloud managed with Amazon Web Services - RDS and MySQL, server is run with Express.
 
 **White Bear** -​ ​http://wonderful-reaction.surge.sh/
 
