@@ -13,10 +13,10 @@
 
 **White Bear** -​ ​http://wonderful-reaction.surge.sh/
 
-  - React js, Redux, JavaScript, Bootstrap, Sass, AWS-RDS, MySQL.
-  - Built a Full-stack application, with a responsive design and interactive interface.
-  - Application created to strengthen a users memory through the use of imagery statements.
-
+  - Full-stack application for creating and reviewing flashcards using memorable imagery statements.  
+  - Built with JavaScript in React.js and Node.js, state managed with Redux. Designed with Bootstrap, CSS, SASS.
+  - Created database, cloud managed with Amazon Web Services - RDS and MySQL, server is run with Express.
+  
 **JavaScript Utility Library**-​ ​https://github.com/kaleykuhn/react-utility-library-app
   - React js, JavaScript, Bootstrap, Sass, Node.js.
   - Built a single page application, with a responsive design and interactive interface.
