@@ -33,12 +33,9 @@ M​AY​ 2020 – J​ULY​ 2020
 
   - 12 week immersive full stack engineering development program building on skills ranging from Bootstrap, JavaScript, React, Redux, Node.js, and Express to skills on how to work successfully in a remote environment.
   - Implemented skills in both front-end and back-end development with a variety of in demand technologies.
-  - An immersive Full-Stack Web Development program highly focused on building JavaScript and React
-    applications.
-  - Implemented skills in both front-end and back-end development with a variety of in demand tech.
-  - Worked remotely on an individual and group basis to write and read code line by line to accomplish goals and
-    finish projects within deadlines.
-  - Worked in a pair programming format as well as on scrum teams, with peer reviews.
+  - Worked remotely on an individual and group basis to write and read code line by line, to accomplish goals and
+finish projects within deadlines.  - Implemented skills in both front-end and back-end development with a variety of in demand tech.
+  - Participated daily in pair programming as well as on scrum teams, with peer reviews and team coding challenges.  - Worked in a pair programming format as well as on scrum teams, with peer reviews.
   - Utilized Slack and Zoom to effectively communicate with others throughout the work day.
   - Graduated with a Certificate of Achievement satisfying full requirements of course.
 
