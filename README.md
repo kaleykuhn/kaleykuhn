@@ -7,6 +7,7 @@
   
 ## Recent Web Projects
   **Lip Service**-​ ​http://jumpy-kitty.surge.sh/
+  
   - Full-stack application has a quiz with results, product suggestion groups, and links to purchase cosmetic products.
   - Built with JavaScript in React.js and Node.js, state managed with Redux. Designed with Bootstrap, CSS, SASS.
   - Created database, cloud managed with Amazon Web Services - RDS and MySQL, server is run with Express.
@@ -18,6 +19,7 @@
   - Created database, cloud managed with Amazon Web Services - RDS and MySQL, server is run with Express.
   
 **JavaScript Utility Library**-​ ​https://github.com/kaleykuhn/react-utility-library-app
+
   - React js, JavaScript, Bootstrap, Sass, Node.js.
   - Built a single page application, with a responsive design and interactive interface.
   - Application created with over fifty different JavaScript functions.
@@ -29,8 +31,8 @@ Las Vegas, NV
 
 M​AY​ 2020 – J​ULY​ 2020
 
-  - Used many technologies to build projects on a daily basis including but not limited to JavaScript, React, Redux,         Node.js, MySQL and Express.
-  - Wrote clear, concise, code with comments to be able to follow, read, and explain in an efficient way.
+  - 12 week immersive full stack engineering development program building on skills ranging from Bootstrap, JavaScript, React, Redux, Node.js, and Express to skills on how to work successfully in a remote environment.
+  - Implemented skills in both front-end and back-end development with a variety of in demand technologies.
   - An immersive Full-Stack Web Development program highly focused on building JavaScript and React
     applications.
   - Implemented skills in both front-end and back-end development with a variety of in demand tech.
