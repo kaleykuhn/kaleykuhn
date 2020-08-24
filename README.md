@@ -39,8 +39,4 @@ finish projects within deadlines.  - Implemented skills in both front-end and ba
   - Utilized Slack and Zoom to effectively communicate with others throughout the work day.
   - Graduated with a Certificate of Achievement satisfying full requirements of course.
 
-## Former Employers
-  - Dr. Stacy Lane    
-         - cell# 412-608-8313 - office# 412-515-0000
-  - John Mcmarlin   
-         - cell# 412-225-1882 - office# 412-471-6790
+
