@@ -2,7 +2,7 @@
 
 ## Web Development Skills
   - JavaScript, HTML5, CSS3, Bootstrap, SASS, MySQL, JQuery, React, Redux, Axios.
-  - Node.js, Expres, AWS - RDS, Git, React Bootsrap, MongoDB, Gatsby.js, Material-UI, VS Code.
+  - Node.js, Expres, AWS - RDS, Git, React-Bootsrap, MongoDB, Gatsby.js, Material-UI, VS Code.
   - Experience implementing all of the above technologies.
   
 ## Recent Web Projects
