@@ -1,9 +1,9 @@
 # Kaley Kuhn
 
 ## Web Development Skills
-  - JavaScript, HTML5, CSS3, Bootstrap, SASS, Material-UI, MySQL, React, Redux, Axios.
+  - JavaScript, HTML5, CSS3, Bootstrap, Material-UI, MySQL, React, Redux, Axios.
   - Node.js, Express, AWS - RDS, MongoDB, Mongoose, GraphQL, Gatsby.js, Multer.
-  - React-Bootsrap, Git, VS Code, JQuery.
+  - React-Bootsrap, Git, VS Code, JQuery, SASS.
   - Experience implementing all of the above technologies.
   
 ## Recent Web Projects
