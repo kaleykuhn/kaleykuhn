@@ -7,7 +7,16 @@
   - Experience implementing all of the above technologies.
   
 ## Recent Web Projects
-  **Lip Service**-​ ​http://jumpy-kitty.surge.sh/
+  **Luxury Shop**-​ ​https://github.com/kaleykuhn/luxury-shop
+  
+  - Full-stack eCommerce application including Pay-Pal/ credit card payment integration and a full featured shopping cart experience. A product rating and review system utilized for more in depth user experience.
+  - Admin product management, user management, and product orders pages.
+  - Built with JavaScript in React.js and Node.js, state managed with Redux.
+  - MongoDB database and implemented Mongoose Object Data Modeling library to manage relationship.  
+  - Express used to run the server.
+  - Designed with React-Bootstrap and CSS.
+  
+**Lip Service**-​ ​http://jumpy-kitty.surge.sh/
   
   - Full-stack application has a quiz with results, product suggestion groups, and links to purchase cosmetic products.
   - Built with JavaScript in React.js and Node.js, state managed with Redux. Designed with Bootstrap, CSS, SASS.
